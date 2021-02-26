@@ -2,9 +2,9 @@
   "main": {
     "name":"Vincent Falcone",
     "occupation":"QA Automation Expert / Software Developer in Test",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I am always looking for ways to grow and broaden my horizons around all things testing related.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I have been in Quality Assurance / Test Automation for over 15 years. I have experience managing software development teams, leading quality assurance teams, developing test automation frameworks, and defining testing best practices.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "vincent.falcone@outlook.com",
     "phone": "718-288-8642",
@@ -15,7 +15,7 @@
       "zip": "18944"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"resume.pdf",
     "social":[
       {
         "name":"facebook",
